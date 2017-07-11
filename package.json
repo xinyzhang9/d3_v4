@@ -1,0 +1,15 @@
+{
+  "name": "d3_v4",
+  "version": "1.0.0",
+  "description": "d3 v4 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start -s -f index.html src --no-ui --no-notify"
+  },
+  "devDependencies":{
+    "browser-sync":"2.16.0"
+  },
+  "author": "xinyang",
+  "license": "ISC"
+}
